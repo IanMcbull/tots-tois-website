@@ -1,2 +1,2 @@
 # tots-tois-website
-A website for tots&amp;tois, an SME that sells baby products 
+A website for Tots&amp;Tois, an SME that sells baby products 
