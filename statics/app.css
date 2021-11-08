@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Nunito:wght@300&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#header-paragraph{
+    min-width: 120px;
+    background: black;
+    color: white;
+    padding: 10px;
+    font-weight: bolder;
+}
+nav{
+    min-width: 50px;
+    position: relative;
+    bottom: 16px;
+    font-family: 'Nunito', sans-serif;
+}
+.nav-link{
+    color: black;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-right: 25px;
+}
+.navbar-brand{
+    font-family: 'Fruktur', cursive;
+    color: black;
+    font-size: 2em;
+    
+}
+.navbar-nav{
+    align-self: center;
+}
+#nav-icons{
+min-width: 200px;
+display: flex;
+justify-content: space-evenly;
+margin-left: 35%;
+}
